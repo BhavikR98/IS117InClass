@@ -9,11 +9,17 @@
 }
 #box2 {
     background-color: green;
+    width: 593px;
+    float: left;
+
 }
 #box3 {
     background-color: yellow;
+    width: 367px;
+
 }
 #box4 {
+    clear: both;
     background-color: gold;
 
 }
