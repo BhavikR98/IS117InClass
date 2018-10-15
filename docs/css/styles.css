@@ -1,27 +1,32 @@
 #wrapper{
-
     width: 960px;
     border: 1px solid black;
-
+    margin: auto;
 }
 #box1 {
     background-color: red;
+    height: 50px;
+    line-height: 50px;
 }
 #box2 {
     background-color: green;
     width: 593px;
-    float: left;
-
 }
 #box3 {
     background-color: yellow;
-    width: 367px;
-
+    width: 593px;
+    float: left;
 }
 #box4 {
     clear: both;
     background-color: gold;
+    float: left;
 
+}
+
+#box5 {
+    clear: both;
+    background-color: blueviolet;
 }
 
 .box{
