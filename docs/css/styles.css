@@ -1,45 +1,39 @@
-#wrapper{
+#wrapper {
     width: 960px;
     border: 1px solid black;
-    margin: auto;
-}
-#menu {
-    background-color: red;
-    height: 50px;
-    line-height: 50px;
-
-}
-
-#menu li {
-    display: inline;
-
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #menu ul {
     margin: 0px;
-
-  }
-#banner {
+}
+#box1 {
     background-color: green;
+    height: 50px;
+    line-height: 50px;
+}
+
+#box2 {
+    background-color: red;
+}
+#box3 {
+    background-color: blue;
+    float: left;
     width: 593px;
 }
-#content {
-    background-color: yellow;
-    width: 593px;
-    float: left;
-}
-#sidebar {
-    clear: both;
-    background-color: gold;
+#box4 {
+
+    background-color: chocolate;
+    width: 367px;
     float: left;
 
 }
-
-#footer {
+#box5 {
     clear: both;
-    background-color: blueviolet;
+    background-color: aquamarine;
 }
 
-.box{
+.box {
 
 }
