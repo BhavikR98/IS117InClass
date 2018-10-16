@@ -8,21 +8,22 @@
 #menu ul {
     margin: 0px;
 }
-#box1 {
+
+#banner {
     background-color: green;
     height: 50px;
     line-height: 50px;
 }
 
-#box2 {
+#content {
     background-color: red;
 }
-#box3 {
-    background-color: blue;
+#sidebar {
+    background-color: white;
     float: left;
     width: 593px;
 }
-#box4 {
+#footer {
 
     background-color: chocolate;
     width: 367px;
