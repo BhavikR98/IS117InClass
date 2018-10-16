@@ -14,6 +14,11 @@
     display: inline;
 
 }
+
+#menu ul {
+    margin: 0px;
+
+  }
 #banner {
     background-color: green;
     width: 593px;
