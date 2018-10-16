@@ -3,28 +3,34 @@
     border: 1px solid black;
     margin: auto;
 }
-#box1 {
+#menu {
     background-color: red;
     height: 50px;
     line-height: 50px;
+
 }
-#box2 {
+
+#menu li {
+    display: inline;
+
+}
+#banner {
     background-color: green;
     width: 593px;
 }
-#box3 {
+#content {
     background-color: yellow;
     width: 593px;
     float: left;
 }
-#box4 {
+#sidebar {
     clear: both;
     background-color: gold;
     float: left;
 
 }
 
-#box5 {
+#footer {
     clear: both;
     background-color: blueviolet;
 }
