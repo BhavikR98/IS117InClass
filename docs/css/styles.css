@@ -24,8 +24,10 @@ body {
 }
 
 #banner {
-    background-color: whitesmoke;
-    height: 50px;
+    background-image: url("../images/happy-people.jpg");
+    background-size: cover;
+    height: 100%;
+    width: 100%;
     line-height: 50px;
 }
 
