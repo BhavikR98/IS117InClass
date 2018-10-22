@@ -18,6 +18,11 @@
 #content {
     background-color: red;
 }
+
+.borderThin {
+    border: 1px solid black;
+}
+
 #sidebar {
     background-color: white;
     float: left;
