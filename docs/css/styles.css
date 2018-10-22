@@ -1,3 +1,7 @@
+body {
+    font-family: Helvetica, "Helvetica Neue", SansSerif, sans-serif;
+    }
+
 #wrapper {
     width: 960px;
     border: 1px solid black;
@@ -5,8 +9,18 @@
     margin-right: auto;
 }
 
+#menu {
+    background-color: antiquewhite;
+    height: 25px;
+    line-height: 25px;
+}
+
 #menu ul {
     margin: 0px;
+}
+
+#menu li {
+    display: inline;
 }
 
 #banner {
@@ -15,31 +29,35 @@
     line-height: 50px;
 }
 
-#content {
-    background-color: red;
+.std-padding{
+    padding-left: 31px;
+
 }
 
 .borderThin {
     border: 1px solid black;
 }
 
-#sidebar {
-    background-color: white;
+#content {
+    width: 544px;
+    background-color: green;
     float: left;
-    width: 593px;
+    padding-left: 24px;
+    padding-right: 24px;
+    line-height: 27px;
+
 }
+
+#sidebar {
+    background-color: chocolate;
+    float: left;
+    width: 368px;
+}
+
 #footer {
 
-    background-color: chocolate;
-    width: 367px;
-    float: left;
-
-}
-#box5 {
+    background-color: bisque;
     clear: both;
-    background-color: aquamarine;
-}
-
-.box {
+    float: left;
 
 }
