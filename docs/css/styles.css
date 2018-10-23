@@ -9,6 +9,13 @@ body {
     margin-right: auto;
 }
 
+#hero-text {
+    position: relative;
+    background-color: white;
+
+    top: 50px;
+
+}
 #menu {
     background-color: antiquewhite;
     height: 25px;
@@ -29,6 +36,7 @@ body {
     height: 100%;
     width: 100%;
     line-height: 50px;
+    opacity: .5%;
 }
 
 .std-padding{
