@@ -18,8 +18,17 @@ body {
 }
 #menu {
     background-color: antiquewhite;
-    height: 25px;
-    line-height: 25px;
+    height: 80px;
+    line-height: 80px;
+    width: 368px;
+    float: left;
+
+}
+
+#logo {
+    width: 592px;
+    float: left;
+
 }
 
 #menu ul {
@@ -69,5 +78,14 @@ body {
     background-color: bisque;
     clear: both;
     float: left;
+
+}
+
+#centerText {
+    text-align: center;
+}
+#panel1, #panel2, #panel3 {
+    float: left;
+    width: 240px;
 
 }
